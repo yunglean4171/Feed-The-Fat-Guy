@@ -108,7 +108,7 @@ namespace nakarm_grubego
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            Http.Post("https://discordapp.com/api/webhooks/785532278779805726/B5OrlewvJ92Z2lAFZ43FmCrrxAuzINwLvd-5-xBbk0UGIHlbbT2OWAjtADvDpMTrCl2-", new NameValueCollection()
+            Http.Post("WKLEJ_TU_WEBHOOKA", new NameValueCollection()
             {
                 { "username", "Gruby The Game" },
                 { "avatar_url", "https://static-cdn.jtvnw.net/jtv_user_pictures/5caa6cb0-bbd9-4c84-8116-79a9e34804e2-profile_image-300x300.png" },
