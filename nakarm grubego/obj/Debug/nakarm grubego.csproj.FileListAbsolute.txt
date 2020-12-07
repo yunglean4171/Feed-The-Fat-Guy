@@ -1,0 +1,8 @@
+C:\Users\altai\source\repos\nakarm grubego\nakarm grubego\obj\Debug\nakarm grubego.csprojAssemblyReference.cache
+C:\Users\altai\source\repos\nakarm grubego\nakarm grubego\obj\Debug\nakarm_grubego.Properties.Resources.resources
+C:\Users\altai\source\repos\nakarm grubego\nakarm grubego\obj\Debug\nakarm grubego.csproj.GenerateResource.cache
+C:\Users\altai\source\repos\nakarm grubego\nakarm grubego\obj\Debug\nakarm grubego.csproj.CoreCompileInputs.cache
+C:\Users\altai\source\repos\nakarm grubego\nakarm grubego\bin\Debug\Nakarm grubasa jebanego.exe.config
+C:\Users\altai\source\repos\nakarm grubego\nakarm grubego\obj\Debug\nakarm_grubego.main.resources
+C:\Users\altai\source\repos\nakarm grubego\nakarm grubego\obj\Debug\Nakarm grubasa jebanego.exe
+C:\Users\altai\source\repos\nakarm grubego\nakarm grubego\obj\Debug\Nakarm grubasa jebanego.pdb
